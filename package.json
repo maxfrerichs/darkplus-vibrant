@@ -1,0 +1,21 @@
+{
+  "name": "darkplus-vibrant",
+  "displayName": "darkplus-vibrant",
+  "description": "A more vibrant variant of the default dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark+ Vibrant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark+ Vibrant-color-theme.json"
+      }
+    ]
+  }
+}
